@@ -15,7 +15,7 @@ docker-compose up -d
 | /delete-all | Elimina todos los registros de la db  |
 | /test       | Endpoint de prueba                    |
 
-
+## La aplicación se inicia en el puerto 8080 y la database en el 5432!
 ![image](https://github.com/f4cuL/utn-curso-docker/assets/56969887/315ad222-b1a6-49c3-955e-7ae8a089f2ce)
 
 
