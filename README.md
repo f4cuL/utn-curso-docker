@@ -8,7 +8,14 @@ Para ejecutar la aplicación:
 docker-compose up -d
 ```
 
-Luego ingresar a localhost:8080/
+| Endpoint    |                                       |
+|-------------|---------------------------------------|
+| /           | Home                                  |
+| /new-date   | Agrega la fecha y hora actual a la db |
+| /delete-all | Elimina todos los registros de la db  |
+| /test       | Endpoint de prueba                    |
+
+
 ![image](https://github.com/f4cuL/utn-curso-docker/assets/56969887/315ad222-b1a6-49c3-955e-7ae8a089f2ce)
 
 
